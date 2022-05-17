@@ -318,6 +318,10 @@ header button:hover, .contact .three button:hover{
     font-size: 13px;
 }
 
+.contact a{
+    color: black;
+    text-decoration: none;
+}
 
 .contact img{
     height: 26px;
